@@ -1,4 +1,4 @@
-## Introduction to Solidity
+## Introduction to Solidity and Wagmi Library
 #### 2022/07/08
 #### Hiroyuki ONODA
 ---
@@ -30,7 +30,18 @@ contract Greeter {
 ```
 ---
 ## どうやって開発するの？
-https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract#step-13-create-greet.js-to-interact-with-the-polygon-smart-contract
+https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract
 
 いい記事があったので、これに沿って説明していきます。(手抜き)
 ---
+## Wagmi React Hooks for Ethereum
+
+https://wagmi.sh/
+---
+## 使用例
+先程のGreetコントラクトとのやり取りをWagmi Library+Reactで実装してみる
+---
+## まとめ
+* Solidityについて実装方法に沿って説明した
+* Wagmi Libraryの紹介と、サンプルの提示
+
