@@ -33,6 +33,8 @@ contract Greeter {
 https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract
 
 いい記事があったので、これに沿って説明していきます。(手抜き)
+
+https://github.com/onoda-cg/polygon-smart-contract-tutorial
 ---
 ## Wagmi React Hooks for Ethereum
 
@@ -40,6 +42,8 @@ https://wagmi.sh/
 ---
 ## 使用例
 先程のGreetコントラクトとのやり取りをWagmi Library+Reactで実装してみる
+
+https://github.com/onoda-cg/wagmi-sample-app
 ---
 ## まとめ
 * Solidityについて実装方法に沿って説明した
