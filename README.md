@@ -1,7 +1,8 @@
-# Intro to Solidity presentation
+# Intro to Solidity and wagmi library presentation
 
 ## How to run presentation
 ```bash
+yarn
 yarn start
 ```
 and access http://localhost:8000 in browser
