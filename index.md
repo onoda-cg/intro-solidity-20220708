@@ -36,6 +36,12 @@ https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smar
 
 https://github.com/onoda-cg/polygon-smart-contract-tutorial
 ---
+## 技術スタックと手順
+* Solidityでスマートコントラクトを書いて、コンパイルする
+* スマートコントラクトをデプロイするスクリプトをEther.jsを使って書く
+* スクリプトを走らせて、HardHat経由でAlchemyに接続してPolygon testnet にデプロイする
+  * ガス代はMetaMaskに入っているMATICから支払う
+---
 ## Wagmi React Hooks for Ethereum
 
 https://wagmi.sh/
